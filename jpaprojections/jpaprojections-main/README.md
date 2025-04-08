@@ -1,4 +1,4 @@
-# jpaprojections
+# jpaProjections
 Tutorial de DTO con Spring Data JPA Projections
 # Datos de prueba SQL
 INSERT INTO tbl_local (id_local,floor,name) VALUES (1,'Third Floor','PuppetShop');
